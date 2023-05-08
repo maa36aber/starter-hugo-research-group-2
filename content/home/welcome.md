@@ -9,10 +9,12 @@ design:
   columns: "2"
   css_style: null
   css_class: null
+  background:
+    text_color_light: false
 ---
 <b>
 
 Working on becoming a more open, transparent researcher and educator by sharing my work. 
-<﻿b> 
+
 
 *S﻿ite under development too, not just me.*
