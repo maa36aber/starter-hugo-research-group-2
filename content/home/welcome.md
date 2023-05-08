@@ -13,3 +13,6 @@ design:
 <b>
 
 Working on becoming a more open, transparent researcher and educator by sharing my work. 
+<﻿b> 
+
+*S﻿ite under development too, not just me.*
