@@ -3,7 +3,7 @@ widget: hero
 widget_id: Welcome
 headless: true
 weight: 10
-title: Marco - under construction
+title: Marco's work in progress
 hero_media: welcome.jpg
 design:
   columns: "2"
