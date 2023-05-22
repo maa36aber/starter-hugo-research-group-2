@@ -25,3 +25,6 @@ main:
     name: Learning
     url: learning
     weight: 70
+    name: portfolios
+    url: guides
+    weight: 80
