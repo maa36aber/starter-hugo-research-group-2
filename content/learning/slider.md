@@ -23,7 +23,9 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-        url: ../contact/
+        link: 
+          text: "Access my guides"
+          url: ../contact/
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
