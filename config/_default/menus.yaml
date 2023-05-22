@@ -22,9 +22,9 @@ main:
   - name: Contact
     url: contact
     weight: 60
-    name: Learning
+  - name: Learning
     url: learning
     weight: 70
-    name: portfolios
+  - name: portfolios
     url: guides
     weight: 80
