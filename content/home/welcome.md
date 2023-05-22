@@ -17,4 +17,4 @@ design:
 Working on becoming a more open, transparent researcher and educator by sharing my work. 
 
 
-*S﻿ite under development too, not just me.*
+*Site under development too, not just me.*
