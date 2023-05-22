@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-        link: 
+      link: 
           icon: graduation-cap
           icon_pack: fas
           text: "Access my guides"
