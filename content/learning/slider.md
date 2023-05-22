@@ -27,7 +27,7 @@ content:
           icon: graduation-cap
           icon_pack: fas
           text: "Access my guides"
-          url: ../contact/
+          url: ../guides/
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
