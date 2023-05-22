@@ -24,6 +24,8 @@ content:
         brightness: 0.7
         media: coders.jpg
         link: 
+          icon: graduation-cap
+          icon_pack: fas
           text: "Access my guides"
           url: ../contact/
     - title: Lunch & Learn ☕️
