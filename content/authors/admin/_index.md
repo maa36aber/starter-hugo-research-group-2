@@ -5,9 +5,11 @@ bio: Dedicated to empower student to learn about the benefits of being active,
   and to engage older people with their own health and well-being via an active
   lifestyle.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Healthy ageing and well-being
+  - Physical Activity
+  - Coordination, balance and strength
+
+    
 social:
   - icon: envelope
     icon_pack: fas
