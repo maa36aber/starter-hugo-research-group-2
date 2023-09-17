@@ -5,9 +5,9 @@ date: 2023-09-17T15:11:52.007Z
 draft: false
 featured: true
 image:
-  filename: aberystwyth_total_view.jpg
+  filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: The place where I live and work, a 'small' town in Aberystwyth, Wales
     (mid, west coast).
 ---
