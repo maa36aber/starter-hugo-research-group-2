@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: As a researcher
-      content: Explore my currrent and previous research projects
+      content: 'Explore my currrent and previous research projects'
       align: center
       background:
         position: right
