@@ -44,8 +44,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: As a healthy lifestyle promoter
+      content: 'Helping you make (small) lifestyle changes and monitor your own well-being as you get older'
       align: right
       background:
         position: center
