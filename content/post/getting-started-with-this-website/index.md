@@ -7,7 +7,7 @@ featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: The place where I live and work, a 'small' town in Aberystwyth, Wales
     (mid, west coast).
 ---
