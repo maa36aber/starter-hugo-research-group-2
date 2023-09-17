@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: Explore these slides to learn more about my interests
+    - title: Learn more about my interests
       content: 'I am keen to work with you, either on research projects, supporting you to get more active, or inspire your passion for sport and exercise as a science.'
       align: left
       background:
