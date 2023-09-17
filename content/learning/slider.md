@@ -36,8 +36,8 @@ content:
           icon_pack: fas
           text: "Access my guides"
           url: ../guides/
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: As an educator
+      content: 'Explore if I can help you, your school, or community group around sport and exercise, wearable technology or healthy ageing'
       align: left
       background:
         position: center
