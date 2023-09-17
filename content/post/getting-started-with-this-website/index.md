@@ -8,8 +8,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: The place where I live and work, a 'small' town in Aberystwyth, Wales
-    (mid, west coast).
+  caption: The place where I live and work, Aberystwyth,  a 'small' town in (mid)
+    Wales, on the glorious and peaceful west coast.
 ---
 T﻿he last 10 years, I've learned so much in my job/life. Well learned, I have experienced a lot, potentially learned, but also lots forgotten (**which means I haven't learned it)**. 
 
