@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋Self-development
-      content: A place where I record new skills
+    - title: As a researcher
+      content: Explore my currrent and previous research projects
       align: center
       background:
         position: right
@@ -26,18 +26,18 @@ content:
       link: 
           icon: graduation-cap
           icon_pack: fas
-          text: "Access my guides"
+          text: "Access my porfolio"
           url: ../guides/
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: As an educator
+      content: 'Presentations, lectures or other educational materials'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: As a community citizen
+      content: 'Support local projects, or helping you age better.
       align: right
       background:
         position: center
