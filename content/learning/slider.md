@@ -15,6 +15,14 @@ design:
 
 content:
   slides:
+    - title: I'm keen to work with you, either on research projects, supporting you to get more active, or inspire your passion for sport and exercise as a science.
+      content: 'Use these slides to learn more about my interests'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
     - title: As a researcher
       content: Explore my planned, current and previous research projects
       align: center
