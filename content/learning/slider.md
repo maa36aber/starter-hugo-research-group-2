@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: As a researcher
-      content: 'Explore my currrent and previous research projects'
+      content: Explore my planned, current and previous research projects
       align: center
       background:
         position: right
@@ -26,18 +26,18 @@ content:
       link: 
           icon: graduation-cap
           icon_pack: fas
-          text: "Access my porfolio"
+          text: "Access my guides"
           url: ../guides/
-    - title: As an educator
-      content: 'Presentations, lectures or other educational materials'
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: As a community citizen
-      content: 'Support local projects, or helping you age better.
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
       align: right
       background:
         position: center
