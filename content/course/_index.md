@@ -2,7 +2,7 @@
 title: An Example Course
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Course
+linktitle: Course Overview
 
 # Page summary for search engines.
 summary: Healthcare is currently more about treatment than prevention. In this course, you can learn about what you might be able to have some control over in your life as you get older, your lifestyle....
