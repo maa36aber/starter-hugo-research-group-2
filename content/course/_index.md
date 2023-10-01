@@ -16,3 +16,5 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
+
+Healthcare is currently more about treatment than prevention. In this course, you can learn about what you might be able to have some control over in your life: your lifestyle.
