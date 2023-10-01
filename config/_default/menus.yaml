@@ -26,3 +26,6 @@ main:
   - name: Guides
     url: guides
     weight: 80
+  - name: Courses
+    url: course
+    weight: 90
