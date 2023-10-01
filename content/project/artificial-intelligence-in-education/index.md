@@ -2,7 +2,7 @@
 title: Artificial Intelligence in Education
 subtitle: Using tools in an ethical manner to make people learn more efficiently
 date: 2023-10-01T18:22:16.770Z
-draft: true
+draft: false
 featured: false
 tags:
   - Education
