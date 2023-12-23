@@ -20,7 +20,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TfzWr1oAAAAJ&hl=en&oi=sra
   - icon: orcid
-    icon_pack: fas
+    icon_pack: fab
     link: https://orcid.org/0000-0001-6762-844X  
   - icon: github
     icon_pack: fab
