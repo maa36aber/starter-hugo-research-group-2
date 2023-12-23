@@ -43,6 +43,6 @@ user_groups:
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A lecturer at Aberystwyth University, located in the beautiful area of Mid-Wales in the United Kingdom. A place to enjoy the job and personal pursuits such as walking, cycling, sport, music, nature. Part of a small team teaching Sport and Exercise Science, which is part of a larger team of Life Sciences, and various research groups.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
